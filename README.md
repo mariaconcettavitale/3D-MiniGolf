@@ -5,7 +5,7 @@ This project aims to deliver an immersive 3D minigolf experience with challengin
 
 ![Asset-Game.png](https://github.com/mariaconcettavitale/3D-MiniGolf/blob/main/textures/AssetGame.png|width=100)
 
-<img src="https://github.com/mariaconcettavitale/3D-MiniGolf/blob/main/textures/AssetGame.png" width="150" height="280">
+<img src="https://github.com/mariaconcettavitale/3D-MiniGolf/blob/main/textures/AssetGame.png" width="540" height="960">
 
 ![MenuGame.png](https://github.com/mariaconcettavitale/3D-MiniGolf/blob/main/textures/MenuGame.png)
 
