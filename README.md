@@ -18,18 +18,26 @@ This project aims to deliver an immersive 3D minigolf experience with challengin
 
 # Getting Started
 
-To get started with the 3D Minigolf Game, follow these steps:
+To get started with the 3D Minigolf Game as a **Gamer**, follow these steps:
 
 - **Clone** the repository:
   `git clone https://github.com/your-username/3d-minigolf-game.git`
-
 - **Run** the executable and start playing
 
-    
+To get started with the 3D Minigolf Game as a **Developer**, follow these steps:
 
+- **Clone** the repository: `git clone https://github.com/your-username/3d-minigolf-game.git`
+- **Open** the `Minigolf3D.sln` project file in Visual Studio.
+- **Build** and **run** the project from within Visual Studio.
+
+  
 # Dependencies
-Dynamic-link library of freeglut 
+### For gamers
+Dynamic-link library of freeglut
+### For developer
+Dynamic-link library : freeglut,glut32, irrKlang(audio)
+
+Libraries: Freeglut, glew and stb image
 
 # Contributing
-
 Contributions are welcome! Whether you want to fix bugs, improve features, or add new courses, feel free to fork the repository and submit a pull request.
