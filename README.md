@@ -6,6 +6,7 @@ This project aims to deliver an immersive 3D minigolf experience with challengin
 <img src="https://github.com/mariaconcettavitale/3D-MiniGolf/blob/main/textures/MenuGame.png" width="480" height="270">
 <img src="https://github.com/mariaconcettavitale/3D-MiniGolf/blob/main/textures/AssetGame.png" width="480" height="270">
 </p>
+
 # Features
 - **3D Graphics:** Experience stunning visuals with legacy OpenGL, providing a classic yet powerful graphics rendering solution.
 
