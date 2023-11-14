@@ -3,8 +3,9 @@ Welcome to the 3D Minigolf Game repository! This project showcases a fun and eng
 # Overview
 This project aims to deliver an immersive 3D minigolf experience with challenging courses, realistic physics, and a visually appealing environment. The game is built using legacy OpenGL for graphics rendering and C++ for game logic, ensuring a solid and efficient foundation.
 
-[![MenuGame.png](https://i.postimg.cc/Y2PmYYpm/MenuGame.png)](https://postimg.cc/14ptZgV9)
-[![Asset-Game.png](https://i.postimg.cc/hj93TcmX/Asset-Game.png)](https://postimg.cc/Hck2CGBm)
+[![Asset-Game.png](https://github.com/mariaconcettavitale/3D-MiniGolf/blob/main/textures/AssetGame.png)
+[![MenuGame.png](https://github.com/mariaconcettavitale/3D-MiniGolf/blob/main/textures/MenuGame.png)
+
 # Features
 - **3D Graphics:** Experience stunning visuals with legacy OpenGL, providing a classic yet powerful graphics rendering solution.
 
