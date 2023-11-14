@@ -1,8 +1,9 @@
 # 3D-MiniGolf
 Welcome to the 3D Minigolf Game repository! This project showcases a fun and engaging minigolf game implemented in C++ using legacy OpenGL.
 # Overview
-
 This project aims to deliver an immersive 3D minigolf experience with challenging courses, realistic physics, and a visually appealing environment. The game is built using legacy OpenGL for graphics rendering and C++ for game logic, ensuring a solid and efficient foundation.
+[![Asset-Game.png](https://i.postimg.cc/mgskySKh/Asset-Game.png)](https://postimg.cc/nC3nHqFt)
+
 # Features
 - **3D Graphics:** Experience stunning visuals with legacy OpenGL, providing a classic yet powerful graphics rendering solution.
 
