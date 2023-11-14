@@ -1,0 +1,130 @@
+begin_user
+username FairwayFun
+score 29
+stroke 29
+end_user
+begin_user
+username GreenGrassGolfer
+score 31
+stroke 31
+end_user
+begin_user
+username GreenGrassGolfer
+score 5
+stroke 5
+end_user
+begin_user
+username 
+score 34
+stroke 34
+end_user
+begin_user
+username 
+score 22
+stroke 22
+end_user
+begin_user
+username Parfectionist
+score 19
+stroke 19
+end_user
+begin_user
+username GreenGrassGolfer
+score 2
+stroke Par
+end_user
+begin_user
+username Parfectionist
+score 2
+stroke Par
+end_user
+begin_user
+username Parfectionist
+score -1
+stroke Birdie
+end_user
+begin_user
+username 
+score 16
+stroke 16
+end_user
+begin_user
+username 
+score 16
+stroke 16
+end_user
+begin_user
+username 
+score 3
+stroke Bogey
+end_user
+begin_user
+username Parfectionist
+score 2
+stroke Par
+end_user
+begin_user
+username Parfectionist
+score 4
+stroke Quadruple Bogey
+end_user
+begin_user
+username 
+score 6
+stroke 6
+end_user
+begin_user
+username 
+score 2
+stroke Par
+end_user
+begin_user
+username 
+score 3
+stroke Bogey
+end_user
+begin_user
+username FairwayFun
+score 19
+stroke Bogey
+end_user
+begin_user
+username 
+score 13
+stroke Bogey
+end_user
+begin_user
+username 
+score 16
+stroke Bogey
+end_user
+begin_user
+username 
+score 14
+stroke Par
+end_user
+begin_user
+username 
+score 1
+stroke Birdie
+end_user
+begin_user
+username HoleInOneHero
+score 11
+stroke Par
+end_user
+begin_user
+username HoleHunter
+score 15
+stroke Double Bogey
+end_user
+begin_user
+username FairwayFun
+score 15
+stroke Bogey
+end_user
+begin_user
+username FairwayFun
+score 2
+stroke Par
+end_user
