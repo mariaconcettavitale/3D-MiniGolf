@@ -34,7 +34,7 @@ To get started with the 3D Minigolf Game as a **Developer**, follow these steps:
 # Dependencies
 ### For gamers
 Dynamic-link library of freeglut
-### For developer
+### For developers
 Dynamic-link library : freeglut,glut32, irrKlang(audio)
 
 Libraries: Freeglut, glew and stb image
